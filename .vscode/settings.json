@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "xtree": "cpp",
+        "vector": "cpp"
+    }
+}
