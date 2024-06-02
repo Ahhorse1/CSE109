@@ -2,6 +2,10 @@
     "files.associations": {
         "stdio.h": "c",
         "xtree": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "map": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "list": "cpp"
     }
 }
